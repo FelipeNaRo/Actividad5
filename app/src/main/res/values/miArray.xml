@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres">
+    <item name="paco">Paco</item>
+    <item name="lola">Lola</item>
+    <item name="raul">Raul</item>
+    <item name="doro">Doro</item>
+    <item name="pepe">Pepe</item>
+    <item name="vane">Vane</item>
+    </string-array>
+</resources>

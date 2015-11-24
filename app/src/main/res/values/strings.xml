@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividad5</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="item1">Paco</string>
+    <string name="item2">Lola</string>
+    <string name="item3">Raúl</string>
+    <string name="item4">Dolo</string>
+    <string name="item5">Pepe</string>
+    <string name="item6">Vane</string>
+    <string name="item7">Guardar</string>
+    <string name="item8">Eliminar</string>
+
+</resources>
